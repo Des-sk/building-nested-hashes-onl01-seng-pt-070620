@@ -22,7 +22,7 @@ def bonus
 
   #code your solution here: expect(bonus[:montague][:hero][:status]).to eq("dead")
    
-    epic_tragedy[:capulet][:hero][:status]"dead"
+    epic_tragedy[:montague][:hero][:status]"dead"
     epic_tragedy[:capulet][:heroine][:status]"dead"
   
 
